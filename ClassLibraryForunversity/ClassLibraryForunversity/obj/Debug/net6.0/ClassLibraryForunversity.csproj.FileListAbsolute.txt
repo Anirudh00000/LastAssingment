@@ -1,0 +1,14 @@
+C:\Users\Rudra\source\repos\ClassLibraryForunversity\ClassLibraryForunversity\bin\Debug\net6.0\ClassLibraryForunversity.deps.json
+C:\Users\Rudra\source\repos\ClassLibraryForunversity\ClassLibraryForunversity\bin\Debug\net6.0\ClassLibraryForunversity.runtimeconfig.json
+C:\Users\Rudra\source\repos\ClassLibraryForunversity\ClassLibraryForunversity\bin\Debug\net6.0\ClassLibraryForunversity.dll
+C:\Users\Rudra\source\repos\ClassLibraryForunversity\ClassLibraryForunversity\bin\Debug\net6.0\ClassLibraryForunversity.pdb
+C:\Users\Rudra\source\repos\ClassLibraryForunversity\ClassLibraryForunversity\obj\Debug\net6.0\ClassLibraryForunversity.csproj.AssemblyReference.cache
+C:\Users\Rudra\source\repos\ClassLibraryForunversity\ClassLibraryForunversity\obj\Debug\net6.0\ClassLibraryForunversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rudra\source\repos\ClassLibraryForunversity\ClassLibraryForunversity\obj\Debug\net6.0\ClassLibraryForunversity.AssemblyInfoInputs.cache
+C:\Users\Rudra\source\repos\ClassLibraryForunversity\ClassLibraryForunversity\obj\Debug\net6.0\ClassLibraryForunversity.AssemblyInfo.cs
+C:\Users\Rudra\source\repos\ClassLibraryForunversity\ClassLibraryForunversity\obj\Debug\net6.0\ClassLibraryForunversity.csproj.CoreCompileInputs.cache
+C:\Users\Rudra\source\repos\ClassLibraryForunversity\ClassLibraryForunversity\obj\Debug\net6.0\ClassLibraryForunversity.dll
+C:\Users\Rudra\source\repos\ClassLibraryForunversity\ClassLibraryForunversity\obj\Debug\net6.0\refint\ClassLibraryForunversity.dll
+C:\Users\Rudra\source\repos\ClassLibraryForunversity\ClassLibraryForunversity\obj\Debug\net6.0\ClassLibraryForunversity.pdb
+C:\Users\Rudra\source\repos\ClassLibraryForunversity\ClassLibraryForunversity\obj\Debug\net6.0\ClassLibraryForunversity.genruntimeconfig.cache
+C:\Users\Rudra\source\repos\ClassLibraryForunversity\ClassLibraryForunversity\obj\Debug\net6.0\ref\ClassLibraryForunversity.dll
